@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LibraryTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-08-02T12:30:14" hostname="DESKTOP-J3A7U0R" time="0.034">
+  <properties/>
+  <testcase name="cellsInTheCorrectOrder" classname="LibraryTest" time="0.017"/>
+  <testcase name="correctBookReturns" classname="LibraryTest" time="0.001"/>
+  <testcase name="emptyBookCellException" classname="LibraryTest" time="0.001"/>
+  <testcase name="bookAddingInFullLibrary" classname="LibraryTest" time="0.003"/>
+  <testcase name="correctBookInfo" classname="LibraryTest" time="0.003"/>
+  <testcase name="printToConsoleWorkingCorrectly" classname="LibraryTest" time="0.001"/>
+  <testcase name="creationException" classname="LibraryTest" time="0.0"/>
+  <testcase name="bookAddingInFirstFreeCell" classname="LibraryTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

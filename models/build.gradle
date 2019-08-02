@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group 'HW1'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'com.google.inject', name: 'guice', version: '4.2.2'
+    compile group: 'org.projectlombok', name: 'lombok', version: '1.18.8'
+    compile group: 'com.intellij', name: 'annotations', version: '12.0'
+}
